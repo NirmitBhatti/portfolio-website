@@ -26,7 +26,7 @@ import profile3 from '../assets/profile3.png';
 import profile from '../assets/profile.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
-import profile2 from '../assets/profile2.png'
+import profile2 from '../assets/profile2.png';
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
 import asus from '../assets/asus.png';
@@ -34,8 +34,9 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import Nirmitbhatti from '../assets/Nirmitbhatti.png'
-export default {
+import Nirmitbhatti from '../assets/Nirmitbhatti.png';
+
+const images = {
   email,
   mobile,
   api,
@@ -73,3 +74,5 @@ export default {
   profile2,
   profile3,
 };
+
+export default images;
