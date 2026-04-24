@@ -35,6 +35,7 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import Nirmitbhatti from '../assets/Nirmitbhatti.png';
+import MernStack from '../assets/Mern-Stack.png';
 
 const images = {
   email,
@@ -73,6 +74,7 @@ const images = {
   Nirmitbhatti,
   profile2,
   profile3,
+  MernStack,
 };
 
 export default images;

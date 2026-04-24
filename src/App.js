@@ -9,8 +9,8 @@ const App = () => {
       <Header/>
       <About/>
       <Work/>
-      <Footer/>
       <Skills/>
+      <Footer/>
       <Testimonial/> 
    </div>
   )
