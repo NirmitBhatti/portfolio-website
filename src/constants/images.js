@@ -34,7 +34,7 @@ import bolt from '../assets/bolt.png';
 import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
-import Nirmitbhatti from '../assets/Nirmitbhatti.png';
+import Nirmitbhatti from '../assets/Sanchitbhatti.png';
 import MernStack from '../assets/Mern-Stack.png';
 
 const images = {
